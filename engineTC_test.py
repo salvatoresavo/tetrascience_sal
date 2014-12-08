@@ -13,8 +13,8 @@ dev_url = "http://192.168.1.10:10080/api/log/tcdata"
 device_type = 'TC'
 device_apikey = 'dsf9usadf['
 
-apiKey = 'KTVwgiYj6awRBSEIXvCHm0ePmEuVXea0qTEX80Gp1lhCjLeQ'
-feedID = '83561687'
+apiKey = 'JU9aF9Khovrqu6VIT4ZkReOyWvS1uzfrFQnejTGdcXosTPxr'
+feedID = '1295198993'
 xively_url = "https://api.xively.com/v2/feeds/"+feedID+".json"
 print xively_url
 
